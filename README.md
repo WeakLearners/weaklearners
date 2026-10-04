@@ -6,6 +6,8 @@ I'm Sean. I'm finishing an MS in Computer Science. I build software that runs un
 
 I'm looking for AI and LLM application engineering work, including internships.
 
+Site and essays: **[weaklearners.github.io](https://weaklearners.github.io)**
+
 ## Public work
 
 **[overwatch-tracker](https://github.com/weaklearners/overwatch-tracker)**
